@@ -1,4 +1,12 @@
-## Hi there 👋
+### I DO NOT KNOW WHAT TO WRITE HERE SO LET ME JUST SHARE SOME LINKS
+- My discord servers:
+  - [UwU・Chill・Muzan Test](https://discord.gg/MNc6TtjNm2): I test my discord bot in this server, and you can get the `UwU` guild tag here.
+  - [io games discussion](https://discord.gg/nDbebSB7s9): My random hangout server.
+- My discord bot: [Kibutsuji Muzan](https://discord.com/oauth2/authorize?client_id=1267834778342785075)
+- My Youtube Channel: [Yusuf 100](https://youtube.com/@Yusuf-dh8lu?si=c--42rhHQcOBICkj)
+- High school notes (TW):
+  - [English](https://onlinelibrary.gitbook.io/english/)
+  - [Chemistry-1](https://hackmd.io/@Yusuf100/chemistry-1)
 
 <!--
 **Yusuf-100/Yusuf-100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
